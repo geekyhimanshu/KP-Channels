@@ -1,0 +1,251 @@
+#EXTM3U
+
+
+#EXTINF:-1, DD Sports Free Dish m3u8
+http://afpanel.one:8080/live/Nadim/1234/74240.m3u8
+#EXTINF:-1, DD Sports Free Dish ts
+http://afpanel.one:8080/live/Nadim/1234/74240.ts
+#EXTINF:-1, DD Sports Free Dish
+http://afpanel.one:8080/Nadim/1234/74240
+
+
+#EXTINF:-1 tvg-id=144 tvg-name="Colors HD" tvg-logo="http://localhost:5350/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
+http://192.0.0.4:5350/live/144.m3u8
+#EXTINF:-1 tvg-name="Star Sports 1 Hindi SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_1_Hindi.png", STAR SPORTS 1 HINDI SD 
+http://182.176.185.207:7500/play/a07r
+
+#EXTINF:-1, STAR SPORTS 1 HINDI HD Premium 4K
+http://195.181.169.162:80/SONY_SIX_HD/index.mpd?token=test
+
+#EXTINF:-1 tvg-name="Star Sports 1 Hindi HD"  tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978f46cbc4372820a5bdf/images/237.webp", STAR SPORTS 1 HINDI HD DishTV ZING
+http://103.120.172.74:5500
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
+#EXTINF:-1 tvg-name="Star Sports 1 SD" tvg-logo="https://www.slt.lk/sites/default/files/channel_images/041-StarSports1%20%281%29.jpg", STAR SPORTS 1 SD
+https://edge3-moblive.yuppcdn.net/drm1/smil:starsport1drm.smil/manifest.mpd
+
+
+#EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a7c5625a16ee72e958/images/402.webp" , Star Sports 1 HD DishTV ZING
+http://103.120.172.74:4600
+
+
+#EXTINF:-1, STAR SPORTS 3
+http://nonamevos.com:80/72582/72582/240
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
+#EXTINF:-1 tvg-name="Star Sports 2 SD" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/074.png", STAR SPORTS 2 SD
+https://edge3-moblive.yuppcdn.net:443/drm1/smil:starsports2drm.smil/manifest.mpd
+https://edge3-moblive.yuppcdn.net:443/drm1/smil:starsports2drm.smil/manifest.m3u8
+https://edge4-moblive.yuppcdn.net:443/drm1/smil:starsports2drm.smil/chunklist_b996000.m3u8
+
+#EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797986a9540e6b3ede47bf/images/607.webp" , Star Sports 2 HD
+http://103.120.172.74:4200
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
+#EXTINF:-1 tvg-name="Star Sports Select 1 SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797933ac7f66229607beaf/images/394.webp", Star Sports Select 1 SD
+https://edge3-moblive.yuppcdn.net:443/drm1/smil:starsportsselect1drm.smil/manifest.mpd
+https://edge4-moblive.yuppcdn.net:443/drm1/smil:starsportsselect1drm.smil/chunklist_b996000.m3u8
+
+
+#EXTINF:-1 tvg-name="Star Sports Select 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png", Star Sports Select 1 HD DishTV Smart+
+http://103.120.172.74:1030
+
+
+#EXTINF:-1 tvg-name="Star Sports Select 2 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png", Star Sports Select 2 HD DishTV Smart+
+http://103.120.172.74:4700
+
+
+#EXTINF:-1, Star Sports Select 2 SD galaxy
+http://iptv.galaxy.net.pk:8081/ina/starsportsselect2/playlist.m3u8
+http://103.156.136.68:8081/ina/starsportsselect2/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Sony Ten 3 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports", Sony TEN 3 HD SonyLiv
+https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8|User-Agent=SonyLiv
+
+
+#EXTINF:-1, Sony Ten 3 SD Sony LIV
+https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8|User-Agent=SonyLiv
+
+
+#EXTINF:-1 tvg-id="Sony Ten 1 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports", Sony TEN 1 HD SonyLiv
+https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8|User-Agent=SonyLiv
+
+#EXTINF:-1, Sony Ten 1 SD Sony LIV
+https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8|User-Agent=SonyLiv
+
+
+#EXTINF:-1 tvg-id="Sony Ten 5 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports", Sony TEN 5 HD SonyLiv
+https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8|User-Agent=SonyLiv
+
+
+#EXTINF:-1, Sony Six SD Sony LIV
+https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8|User-Agent=SonyLiv
+
+
+#EXTINF:-1 tvg-id="Sony Ten 2 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports", Sony TEN 2 HD SonyLiv
+https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8|User-Agent=SonyLiv
+
+
+#EXTINF:-1, Sony Ten 2 SD Sony LIV
+https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8|User-Agent=SonyLiv
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e833f4019554aa394ff6de2eb19bf78:f60e08a145804890492f315b61789ac5
+#EXTINF:-1 tvg-logo="" group-title="Indian",Sony 5
+https://sundirectgo-live.pc.cdn.bitgravity.com/hd38/dth.mpd?%7Cuser-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+
+
+
+EXTINF:-1, STAR SPORTS 3
+http://202.89.25.34:80/hls/neo sports/index.m3u8
+
+EXTINF:-1, Star Sports 1 HD Hindi madstreams
+https://www.madstreams.ga/sports/master.m3u8/hls.php?c=starhindi&key=madstream|Referer=https://www.madstreams.ga/sports/master.m3u8/hls.php?c=starhindi&key=madstream
+https://mhdtvpro.com/crichd/gocast.php?id=starhindi|Referer=https://mhdtvpro.com/crichd/gocast.php?id=starhindi
+https://mhdtvpro.com/crichd/gocast.php?id=skyscric
+
+EXTINF:-1, Star Sports 1 HD English mhdtvpro
+https://mhdtvpro.com/crichd/gocast.php?id=star1in|Referer=https://mhdtvpro.com/crichd/gocast.php?id=star1in
+
+EXTINF:-1, STAR SPORTS 1 HINDI HD Global Symbol
+https://rana-pk.xyz/STARZxx/app/play.m3u8?id=51218
+
+EXTINF:-1, STAR SPORTS 1 HINDI FHD madplay.live
+https://madplay.live/starlive/index.m3u8/?id=48105
+https://rana-pk.xyz/STARZxx/app/play.m3u8?id=48105
+http://212.224.84.217:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.mpd?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
+http://31.172.87.60:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=RED_nzJ6TRfoAw9w6dH-iG4yWQ==,1662937066.2936048121|user-agent="REDLINECLIENT"
+
+EXTINF:-1, Star Sports 1 HD Hindi madplay.live
+https://madplay.live/starlive/index.m3u8/?id=51218
+
+EXTINF:-1, Star Sports 1 HD English madplay.live
+https://madplay.live/starlive/index.m3u8/?id=48106
+
+EXTINF:-1, Star Sports 1 Hindi HD stalker.ugoiptv.com
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:24:83:35&stream=1114582&extension=ts
+&play_token=34TuTRBbVC
+
+EXTINF:-1, Star Sports 3 tv.zaintv.net
+http://tv.zaintv.net:80/IQcVOWO1UK/sNkjhplOho/92289
+
+EXTINF:-1, Star Sports 3 madplay.live
+https://madplay.live/starlive/index.m3u8/?id=48114
+http://212.224.84.217:2200/R-EX/SPORTS_STAR_SPORTS_3_-in/index.mpd?token=token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
+
+EXTINF:-1, Star Sports 1 HD Hindi
+http://212.224.84.217:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/index.mpd?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
+http://31.172.87.60:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/index.m3u8?token=RED_nzJ6TRfoAw9w6dH-iG4yWQ==,1662937066.2936048121|user-agent="REDLINECLIENT"
+
+EXTINF:-1, Star Sports 1 HD English
+http://212.224.84.217:2200/R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/index.mpd?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
+http://31.172.87.60:2200/R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/index.m3u8?token=RED_nzJ6TRfoAw9w6dH-iG4yWQ==,1662937066.2936048121|user-agent="REDLINECLIENT"
+
+EXTINF:-1, STAR SPORTS 1 HD p1.uiop.tv
+http://shark1.dyndns.tv:5808/STARSPORTS1HD/index.mpd?token=test
+
+EXTINF:-1, Star Sports 1 Hindi HD p1.uiop.tv
+http://dpus1.ddns.net:5808/bd-starsports1hindix1/index.mpd?token=test
+http://shark2.dyndns.tv:5808/Sp-H/index.mpd?token=test
+
+EXTINF:-1, Star Sports 1 HD 8008
+http://163.53.75.198:23480/hls/modn/list/8008/playlist.m3u8
+
+EXTINF:-1, Star Sports 1 Hindi SD eas4.gcdn.co
+https://eas4.gcdn.co/UKS74/index.m3u8?token=test
+
+EXTINF:-1, Star Sports 1 Hindi HD eas4.gcdn.co
+https://eas4.gcdn.co/UKS69/index.m3u8?token=test
+
+EXTINF:-1, STAR_SPORTS_1 HD eas4.gcdn.co
+https://eas4.gcdn.co/UKS70/index.m3u8?token=test
+
+EXTINF:-1, STAR SPORTS 1 Hindi HD 8004
+http://163.53.75.198:23480/hls/modn/list/8004/playlist.m3u8
+http://54.39.100.215/IN_STARSPORTSHD/index.mpd?token=test
+
+EXTINF:-1,  Sports 18 Khel SD
+https://tvworld.fun/jtv/quality_live_tv.php?c=Sports18_Khel&e=.m3u8|Referer=https://tvworld.fun/jtv/quality_live_tv.php
+
+DD Sports SD DD Free Dish TV
+http://202.89.25.34:80/hls/dd sports/index.m3u8
+http://best-mirax.pw/n34MleII7G/C8KRRJNonk/412
+
+Star Sports 1 Hindi HD
+http://195.181.169.162:80/STAR_SPORTS_1_HINDI_HD/index.mpd?token=test
+
+EXTINF:-1, Star Sports First
+http://45.125.220.129:81/play/a02g
+
+https://www.iplocation.net/hide-ip-with-vpn
+
+EXTINF:-1 ,Star Sports Select 1 SD
+http://iptv.galaxy.net.pk:8081/ina/starsportsselect1/playlist.m3u8
+http://103.156.136.68:8081/ina/starsportsselect1/playlist.m3u8
+
+EXTINF:-1,  Sports 18 1 HD
+https://prod-sports-north-fa.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
+https://sportscdn.co.in/voot/app/master2.php?id=5ede71ce5ef43028e37d0cea6b4094a2|Referer=https://sportscdn.co.in/voot/app/master2.php?id=5ede71ce5ef43028e37d0cea6b4094a2
+https://vootselect.yashrajmod.repl.co/app/master.php?id=1226
+https://spidyworld.ml/Voot/app/master.php?id=1986&e=.m3u8
+
+EXTINF:-1,  Sports 18 1 SD
+https://mhdtv.co.in/jio/stream.php?id=1985|Referer=https://mhdtv.co.in/jio/stream.php?id=821
+http://tv.zaintv.net:80/vx0bjSSVfy/SlYnSdLi73/254510
+http://tv.zaintv.net:80/IQcVOWO1UK/sNkjhplOho/254510
+https://vootselect.yashrajmod.repl.co/app/master.php?id=1229
+
+EXTINF:-1,  Sports 18 Khel SD
+https://prod-sports-north-fa.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
+http://best-mirax.pw/n34MleII7G/C8KRRJNonk/11658
+http://dream8k.pro:80/play/live.php?mac=00:1A:79:73:6D:92&stream=417606&extension=ts
+&play_token=dG0scIS6lX
+
+
+EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_2.png" group-title="Sports",Sports18 2 
+https://mhdtv.co.in/jio/stream.php?id=2852|Referer=https://mhdtv.co.in/jio/stream.php?id=2852
+EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_3.png" group-title="Sports",Sports18 3 
+https://mhdtv.co.in/jio/stream.php?id=2853|Referer=https://mhdtv.co.in/jio/stream.php?id=2853
+
+Star Sports 1 SD
+http://202.89.25.34:80/hls/star Sports 3/index.m3u8
+
+Star Sports 1 HD
+http://195.181.169.162:80/STAR_SPORTS_1_HD/index.mpd?token=test
+
+Star Sports 2 HD
+http://202.89.25.34:80/hls/star Sports 4/index.m3u8
+
+Star Sports Select 1 HD
+http://202.89.25.34:80/hls/star Sports 1/index.m3u8
+
+Star Sports Select 2 HD
+http://202.89.25.34:80/hls/star Sports 2/index.m3u8
+
+STAR_SPORTS_1_HINDI SD
+http://103.72.179.30:1935/SPORTS/STAR_SPORTS_1_HINDI.stream_720p/Playlist.m3u8
+
+EXTINF:-1 tvg-name="Star Sports 1 SD" tvg-logo="https://www.slt.lk/sites/default/files/channel_images/041-StarSports1%20%281%29.jpg", STAR SPORTS 1 SD
+https://edge3-moblive.yuppcdn.net/drm1/smil:starsport1drm.smil/manifest.mpd?%7CdrmScheme=clearkey&drmLicense=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
+
+EXTINF:-1 tvg-name="Star Sports Select 1 SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797933ac7f66229607beaf/images/394.webp", Star Sports Select 1 SD
+https://edge3-moblive.yuppcdn.net:443/drm1/smil:starsportsselect1drm.smil/manifest.mpd?%7CdrmScheme=clearkey&drmLicense=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
+
+EXTINF:-1 tvg-name="Star Sports 2 SD" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/074.png", STAR SPORTS 2 SD
+https://edge3-moblive.yuppcdn.net:443/drm1/smil:starsports2drm.smil/manifest.mpd?%7CdrmScheme=clearkey&drmLicense=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
+
+
+
+
+
+
+

@@ -9,8 +9,6 @@ http://afpanel.one:8080/live/Nadim/1234/74240.ts
 http://afpanel.one:8080/Nadim/1234/74240
 
 
-#EXTINF:-1 tvg-id=144 tvg-name="Colors HD" tvg-logo="http://localhost:5350/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
-http://192.0.0.4:5350/live/144.m3u8
 #EXTINF:-1 tvg-name="Star Sports 1 Hindi SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_1_Hindi.png", STAR SPORTS 1 HINDI SD 
 http://182.176.185.207:7500/play/a07r
 

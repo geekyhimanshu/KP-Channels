@@ -36,8 +36,6 @@ http://nonamevos.com:80/72582/72582/240
 #KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
 #EXTINF:-1 tvg-name="Star Sports 2 SD" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/074.png", STAR SPORTS 2 SD
 https://edge3-moblive.yuppcdn.net:443/drm1/smil:starsports2drm.smil/manifest.mpd
-https://edge3-moblive.yuppcdn.net:443/drm1/smil:starsports2drm.smil/manifest.m3u8
-https://edge4-moblive.yuppcdn.net:443/drm1/smil:starsports2drm.smil/chunklist_b996000.m3u8
 
 #EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797986a9540e6b3ede47bf/images/607.webp" , Star Sports 2 HD
 http://103.120.172.74:4200
@@ -46,7 +44,6 @@ http://103.120.172.74:4200
 #KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
 #EXTINF:-1 tvg-name="Star Sports Select 1 SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797933ac7f66229607beaf/images/394.webp", Star Sports Select 1 SD
 https://edge3-moblive.yuppcdn.net:443/drm1/smil:starsportsselect1drm.smil/manifest.mpd
-https://edge4-moblive.yuppcdn.net:443/drm1/smil:starsportsselect1drm.smil/chunklist_b996000.m3u8
 
 
 #EXTINF:-1 tvg-name="Star Sports Select 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png", Star Sports Select 1 HD DishTV Smart+
